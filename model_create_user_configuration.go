@@ -1,4 +1,4 @@
-package model
+package gomodels
 
 type CreatedUserConfiguration struct {
 	UserConfiguration UserConfiguration `json:"userConfiguration"`

@@ -1,4 +1,4 @@
-package model
+package gomodels
 
 type UserConfiguration struct {
 	Username string  `json:"username"`
